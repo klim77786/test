@@ -1,1 +1,1 @@
-print('test', 'hgkg')
+print('test', 'name')
